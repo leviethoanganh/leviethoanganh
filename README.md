@@ -1,12 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9DC08B&height=120&section=header" />
-
-  <h3 align="center" style="margin-bottom: 0;">Hi, I'm Le Viet Hoang Anh 👋</h3>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=609966&center=true&vCenter=true&width=350&lines=Software+Engineer+💬" alt="Software Engineer" style="display: block; margin: 0 auto;" />
-
-  <img src="https://komarev.com/ghpvc/?username=leviethoanganh&color=609966&style=flat-square&label=visitors" alt="visitors" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=33CCFF,99FF99&height=150&section=header" alt="Wave Banner" />
 </p>
+
+<div align="center">
+
+  <h1>Hi, I'm [Tên của bạn] 👋</h1>
+
+  <h2><span style="color: #a0c4ff; font-family: monospace;">Software Engineer 💬</span></h2>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=[Username của bạn]&color=609966&style=flat-square&label=visitors" alt="visitors" />
+  </p>
+
+</div>
 
 <hr/>
 
