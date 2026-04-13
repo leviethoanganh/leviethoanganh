@@ -3,11 +3,11 @@
 
   <h3 align="center">Hi, I'm Le Viet Hoang Anh 👋</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=609966&center=true&vCenter=true&width=435&lines=Software+Engineer+💬" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=609966&center=true&vCenter=true&width=435&lines=Software+Engineer+💬" alt="Software Engineer" />
 
   <br/>
 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleviethoanganh&count_bg=%23609966&title_bg=%2340513B&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" />
+  <img src="https://komarev.com/ghpvc/?username=leviethoanganh&color=609966&style=flat-square&label=visitors" alt="visitors" />
 </p>
 
 <hr/>
