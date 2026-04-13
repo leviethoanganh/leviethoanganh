@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=709d93&height=200&section=header" />
 
-  <h1 align="center">Hi, I'm [Tên Của Bạn] 👋</h1>
+  <h1 align="center">Hi, I'm Le Viet Hoang Anh 👋</h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Reach+out+if+you+need+help!+💬" alt="Typing SVG" />
 
