@@ -3,7 +3,7 @@
 
   <h3 align="center">Hi, I'm Le Viet Hoang Anh 👋</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=609966&center=true&vCenter=true&width=435&lines=Software+Engineer+💬" alt="Software Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=609966&center=true&vCenter=true&width=300&lines=Software+Engineer+💬" alt="Software Engineer" />
 
   <br/>
 
